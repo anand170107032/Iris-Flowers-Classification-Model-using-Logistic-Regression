@@ -1,1 +1,1 @@
-# Iris-Flowers-Classification-Model-using-Logistic-Regression
+# Iris Flowers Classification Model using Logistic Regression
